@@ -95,6 +95,5 @@ public class TennisGame {
     public static void main(String[] args) {
         TennisGame game = new TennisGame();
        System.out.println(  game.playTennis("ABABABABABBAABBB"));
-       System.out.println(  game.playTennis("BBBAAB"));
     }
 }
